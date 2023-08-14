@@ -16,5 +16,5 @@ variable "azs_available" {
 variable "app_name" {
   description = "Application name"
   type        = string
-  default     = "jfapp"
+  default     = "kcdguatemala"
 }
